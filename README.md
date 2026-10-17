@@ -1,6 +1,7 @@
 # AI Architecture Advisor
 
-**[Live demo →](https://workflow-autonomy-advisor-gnufzu3ycnqmr6nwserhxr.streamlit.app/)**
+🔗 **Live app:** [workflow-autonomy-advisor.streamlit.app](https://workflow-autonomy-advisor-gnufzu3ycnqmr6nwserhxr.streamlit.app/)
+📦 **Source code:** [github.com/nainyM/workflow-autonomy-advisor](https://github.com/nainyM/workflow-autonomy-advisor)
 
 ## Overview
 
