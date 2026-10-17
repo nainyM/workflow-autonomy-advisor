@@ -1,5 +1,7 @@
 # AI Architecture Advisor
 
+**[Live demo →](https://workflow-autonomy-advisor-gnufzu3ycnqmr6nwserhxr.streamlit.app/)**
+
 ## Overview
 
 AI Architecture Advisor is a lightweight Streamlit decision-support app that helps product teams determine whether a business workflow is better suited for deterministic automation, a GenAI assistant, a human-in-the-loop agent, or a bounded autonomous agent.
