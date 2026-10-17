@@ -55,6 +55,12 @@ An optional sixth question flags workflows that are customer-facing or financial
 
 ![AI Architecture Advisor](docs/screenshot.png)
 
+## Use Case Canvas
+
+A one-page canvas for working through a use case from business problem to final decision. The app's four architectures appear in section 5, and the canvas is the framework behind the questions the app asks.
+
+![Agentic AI Use Case Canvas](Use_Case_Canvas.png)
+
 ## Tech Stack
 
 - Python
@@ -73,6 +79,9 @@ streamlit run app.py
 workflow-autonomy-advisor/
 ├── app.py
 ├── README.md
+├── Use_Case_Canvas.png
+├── docs/
+│   └── screenshot.png
 └── requirements.txt
 ```
 
